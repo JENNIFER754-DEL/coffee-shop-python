@@ -53,7 +53,7 @@ Relationships: Add methods like most_frequent_customer or average_order_price
 Tests: Expand the tests/ directory with additional test cases
 
 ## Contributors
-Nyaguthii (https://github.com/YOUR-USERNAME)
+Nyaguthii (https://github.com/JENNIFER754-DEL)
 
 ### Contributing
 Fork the repository
