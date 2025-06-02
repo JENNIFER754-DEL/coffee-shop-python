@@ -4,7 +4,7 @@ A Python project modeling a coffee shop system using object-oriented programming
 
 ## Setup Instructions
 Clone the repository
-git clone https://github.com/YOUR-USERNAME/coffee-shop-pythonnyaguthii.git
+git clone https://github.com/JENNIFER754-DEL/coffee-shop-python
 cd coffee-shop-pythonnyaguthii
 Create and activate a virtual environment
 Using pipenv:
